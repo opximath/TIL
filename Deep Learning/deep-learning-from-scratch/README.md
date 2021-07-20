@@ -7,3 +7,4 @@
 
 - [[Link]](https://github.com/opximath/TIL/blob/main/Deep%20Learning/deep-learning-from-scratch/01_Perceptron.ipynb) 퍼셉트론
 - [[Link]](https://github.com/opximath/TIL/blob/main/Deep%20Learning/deep-learning-from-scratch/02_NeuralNetwork.ipynb) 뉴럴네트워크
+- [[Link]](https://github.com/opximath/TIL/blob/main/Deep%20Learning/deep-learning-from-scratch/03_TrainingNeuralNetwork.ipynb) 신경망 학습
